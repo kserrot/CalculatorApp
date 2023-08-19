@@ -3,4 +3,5 @@ public class B{
         System.out.printl("Easir than I thought");
     }
 
+
 }
